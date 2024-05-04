@@ -1,6 +1,10 @@
 # Skiovox writeup by divinelordkaio
 Updated 5/4/24
 
+# Original Methods (Patched v120)
+https://skiovox.netlify.app
+
+
 # 120 Method, Updated (divinelordkaio and zeglol) (Patched v120-v121)
 - Log out of your device and turn off w
 - WiFi (does not work on lock screen).
