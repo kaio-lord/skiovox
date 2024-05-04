@@ -6,8 +6,7 @@ https://skiovox.netlify.app
 
 
 # 120 Method, Updated (divinelordkaio and zeglol) (Patched v120-v121)
-- Log out of your device and turn off w
-- WiFi (does not work on lock screen).
+- Log out of your device and turn off WiFi (does not work on lock screen).
 - Press "Add person" button, then press esc. Alternatively, you can press CTRL + ALT + SHIFT + R and then cancel the powerwash.
 - Enter the testing app of your choice and press "alt+shift+s" at the same time. The quick settings menu should pop up.
 - Wait until you reach the network screen and press the accessibility menu and then the question mark "?". This opens the kiosk user's chrome instance.
