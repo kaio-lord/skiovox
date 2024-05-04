@@ -1,7 +1,7 @@
 # Skiovox writeup by divinelordkaio
 Updated 5/4/24
 
-# Original Methods (Patched v120)
+# Original Methods (Patched v119)
 https://skiovox.netlify.app
 
 
